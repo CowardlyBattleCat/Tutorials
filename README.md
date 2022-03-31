@@ -58,3 +58,5 @@ The Certora team will be available for questions and help with the exercises dai
 We strongly believe in the mantra "There's no such thing as a stupid question". Therefore, we encourage discussions and knowledge sharing between fellow users. We invite you to get the most out of the course by utilizing all of the platforms and resources supplied here to ask questions and discuss the course's subjects.
 
 ## Welcome and enjoy the course.
+
+//TODO Minor grammar and syntax edits
