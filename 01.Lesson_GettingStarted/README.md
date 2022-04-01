@@ -6,6 +6,8 @@
 
 - [ ] Follow the installation instructions for the Certora Prover described in the following link: [Installation of Certora Prover](https://certora.atlassian.net/wiki/spaces/CPD/pages/7274497/Installation+of+Certora+Prover). 
 
+//TODO Update warning text to reference solc repo
+
 > :warning: Make sure to download solidity compiler versions 8.7, 8.0, 7.6, 7.5 and 7.0 for the first 2 lessons of the course. You will need additional solc versions in the future; so whenever a solc error will rise, make sure to have the compiler version that you need on your local machine, located in a directory added to PATH.
 
 </br> 
@@ -93,3 +95,5 @@ For that reason we often write a shell scripts of the run command that includes 
 ### Hurray! You've completed you first step towards being a security engineer.
 
 ---
+
+//TODO Review content and syntax carefully

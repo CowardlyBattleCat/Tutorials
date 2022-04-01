@@ -97,3 +97,5 @@ For each of the systems in this directory do as follows:
 ---
 
 ### Lesson 2 is all set and done. Great progress!
+
+//TODO Review content and syntax carefully
