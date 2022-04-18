@@ -60,3 +60,4 @@ We strongly believe in the mantra "There's no such thing as a stupid question". 
 ## Welcome and enjoy the course.
 
 //TODO Minor grammar and syntax edits, update reference to branching in Course Structure
+//TODO Add helpful links to deal with prereqs
